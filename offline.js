@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1684841160,
+	"version": 1685009391,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -87,6 +87,9 @@
 		"333.ogg",
 		"11.ogg",
 		"00.ogg",
+		"rang.ogg",
+		"rang2.ogg",
+		"como.ogg",
 		"theme.ogg",
 		"icon-256.png",
 		"loading-logo.png",
