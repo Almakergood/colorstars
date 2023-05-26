@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1685009391,
+	"version": 1685111750,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -97,7 +97,7 @@
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
-		"imwonder.ttf",
+		"im-wunderland-regular.ttf",
 		"styles.css"
 	]
 }
